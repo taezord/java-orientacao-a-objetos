@@ -1,5 +1,6 @@
 # Orientação a Objetos com Java
-ITA (Instituto Tecnológico da Aeronáutica)
+ITA (*Instituto Tecnológico da Aeronáutica*)
+
 
 ## Cronograma do Curso
 <h3>Semana 1</h3>
